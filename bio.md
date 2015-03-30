@@ -11,3 +11,8 @@ Interests:
 2) Financial
 3) College Basketball
 4) Traveling 
+
+Education:
+1) High School (2005)
+2) USNA (2009)
+3) OSU CS Post-Bacc (2016)
