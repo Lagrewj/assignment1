@@ -1,3 +1,7 @@
+Background:
+
+I was born in Louisville, KY in 1986 and moved to Southern California when I was six months old. 
+
 Programming Background:
 I am quite new to programming but have learned a lot in the past 8 months with 3 quarters of the Post-Bacc 
 program under my belt. I am excited to continue to learn different aspects of computer science and really want
